@@ -1,0 +1,4 @@
+go install github.com/blobtag/dht
+go install github.com/blobtag/webapp
+go install github.com/blobtag/coordinator
+
